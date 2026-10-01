@@ -1,0 +1,29 @@
+## .NET build results
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+
+## Rider / JetBrains
+.idea/
+
+## VS Code
+.vscode/
+
+## NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+## Logs
+*.log
+
+## Claude Code local settings
+.claude/

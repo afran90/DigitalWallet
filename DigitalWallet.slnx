@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DigitalWallet.Common/DigitalWallet.Common.csproj" />
+  <Project Path="DigitalWallet.Repository/DigitalWallet.Repository.csproj" />
+  <Project Path="DigitalWallet.Service/DigitalWallet.Service.csproj" />
+  <Project Path="DigitalWallet/DigitalWallet.csproj" />
+</Solution>
